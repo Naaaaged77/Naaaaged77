@@ -9,16 +9,16 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer` and `Researcher` Graduated from Faculty of Engineer
-- :technologist: I love using programming and problem solving
-- :student: I’m currently learning: `Deep Learnig` and `DevOps`.
+- :school: I am a `Communication and Electronics Engineer` and `Researcher` Graduated from Faculty of Engineer
+- :technologist: I love Using Programming and problem solving
+- :student: I’m currently learning: ` AutoSar`.
 - :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://https://www.linkedin.com/in/mohamed-naged-90a05a226/).
 - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a `Software company`, in a creative and dynamic work environment, and cooperative work team.
 <br>
 
 ## <img src="https://icon-library.com/images/contact-icon-png/contact-icon-png-24.jpg" width="60" height="60"> Connect with me
 <p align="center">
-  <a href="mailto:Eng.S.A.Sayed.99@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/SayedAbdo-99"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://wa.me/0201154967564"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
   <a href="https://www.linkedin.com/in/s-a-sayed99/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

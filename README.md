@@ -12,7 +12,7 @@
 - :school: I am a `Communication and Electronics Engineer` and `Researcher` Graduated from Faculty of Engineer
 - :technologist: I love Using Programming and problem solving
 - :student: I’m currently learning: ` AutoSar`.
-- :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/mohamed-naged-90a05a226/overlay/1635523067738/single-media-viewer/?profileId=ACoAADiavZoBKc7FoKOIMEOlBPLWLMqjrAzzJtE).
+- :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Naaaaged77/Naaaaged77/blob/main/Mohamed_Naged.pdf).
 - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a `Software company`, in a creative and dynamic work environment, and cooperative work team.
 <br>
 

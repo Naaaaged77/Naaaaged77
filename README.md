@@ -4,15 +4,15 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Sayed Abd-Elaleem Sayed</h1>
-<h3 align="center">Software and AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Naged Yassin</h1>
+<h3 align="center">Embedded SoftWare Engineer</h3>
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer` and `Researcher` graduated from Faculty of Computer Sciences and Artificial Intelligence
+- :school: I am a `Software Engineer` and `Researcher` Graduated from Faculty of Engineer
 - :technologist: I love using programming and problem solving
 - :student: I’m currently learning: `Deep Learnig` and `DevOps`.
-- :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/s-a-sayed99/).
+- :technologist: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://https://www.linkedin.com/in/mohamed-naged-90a05a226/).
 - :nerd_face: I can use my skills to develop the technology world around me and `increase` my scientific and practical knowledge, through working in a `Software company`, in a creative and dynamic work environment, and cooperative work team.
 <br>
 
